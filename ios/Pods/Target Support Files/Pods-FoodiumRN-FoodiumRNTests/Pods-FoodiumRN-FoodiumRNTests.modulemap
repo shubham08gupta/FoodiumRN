@@ -1,0 +1,6 @@
+module Pods_FoodiumRN_FoodiumRNTests {
+  umbrella header "Pods-FoodiumRN-FoodiumRNTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
