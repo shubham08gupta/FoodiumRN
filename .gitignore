@@ -110,3 +110,6 @@ yarn.lock
 
 # Android memory profiler files
 *.hprof
+
+# Jest
+.jest/
