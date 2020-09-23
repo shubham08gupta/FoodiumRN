@@ -74,6 +74,21 @@ com/facebook/fresco/stetho/R.java
  com.facebook.fresco.stetho.R$string
  com.facebook.fresco.stetho.R$style
  com.facebook.fresco.stetho.R$styleable
+com/th3rdwave/safeareacontext/R.java
+ com.th3rdwave.safeareacontext.R
+ com.th3rdwave.safeareacontext.R$anim
+ com.th3rdwave.safeareacontext.R$attr
+ com.th3rdwave.safeareacontext.R$bool
+ com.th3rdwave.safeareacontext.R$color
+ com.th3rdwave.safeareacontext.R$dimen
+ com.th3rdwave.safeareacontext.R$drawable
+ com.th3rdwave.safeareacontext.R$id
+ com.th3rdwave.safeareacontext.R$integer
+ com.th3rdwave.safeareacontext.R$layout
+ com.th3rdwave.safeareacontext.R$string
+ com.th3rdwave.safeareacontext.R$style
+ com.th3rdwave.safeareacontext.R$styleable
+ com.th3rdwave.safeareacontext.R$xml
 com/facebook/drawee/backends/pipeline/R.java
  com.facebook.drawee.backends.pipeline.R
  com.facebook.drawee.backends.pipeline.R$attr

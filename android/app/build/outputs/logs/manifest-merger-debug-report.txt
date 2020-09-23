@@ -8,7 +8,8 @@ MERGED from /Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/src/main/A
 MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/698487b2ce1eeab8cbd109504b96a466/flipper-0.37.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/08747bcf95180809dfe80aea2815b7b6/flipper-network-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/f8d180802fee4138616517c99d1ca2a5/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/21e8017996b3b9ae3a71fabe38660adf/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-safe-area-context] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/7cfbb726f7d1b12b33c2d015416e43f3/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/ea093b838c52b70c98eb8d9e12750da4/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/2550e908293328e948a811523a97e2af/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
@@ -47,7 +48,7 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shubham.gupta/.
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/10550f90ebb6a8163044e5b88b00adb2/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/9e9b8621266ce5b480d5b7a4968a50a7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/c48f26716dae204a333c23954b9359c9/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/60fceaa3d5e211c80e51dcdb98f44a26/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/e8d806fc55d03de6948dc26432b45512/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/d3b06f8f65bd7321d3da944e36fc9c18/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -79,8 +80,8 @@ application
 ADDED from /Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/src/main/AndroidManifest.xml:6:5-25:19
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/21e8017996b3b9ae3a71fabe38660adf/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/21e8017996b3b9ae3a71fabe38660adf/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/b90e18c9a8a5c1c5d878e25c1447e97e/soloader-0.8.2/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/b90e18c9a8a5c1c5d878e25c1447e97e/soloader-0.8.2/AndroidManifest.xml:11:5-20
 MERGED from [androidx.core:core:1.1.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/e05b3702b845f84248fd8680903f151e/core-1.1.0/AndroidManifest.xml:24:5-89
@@ -151,8 +152,10 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/shubham.
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/08747bcf95180809dfe80aea2815b7b6/flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/f8d180802fee4138616517c99d1ca2a5/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/f8d180802fee4138616517c99d1ca2a5/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/21e8017996b3b9ae3a71fabe38660adf/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/21e8017996b3b9ae3a71fabe38660adf/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/7cfbb726f7d1b12b33c2d015416e43f3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/7cfbb726f7d1b12b33c2d015416e43f3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/ea093b838c52b70c98eb8d9e12750da4/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
@@ -229,8 +232,8 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shubham.gupta/.gradle
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/9e9b8621266ce5b480d5b7a4968a50a7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/c48f26716dae204a333c23954b9359c9/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/c48f26716dae204a333c23954b9359c9/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/60fceaa3d5e211c80e51dcdb98f44a26/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/60fceaa3d5e211c80e51dcdb98f44a26/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/e8d806fc55d03de6948dc26432b45512/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/e8d806fc55d03de6948dc26432b45512/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/d3b06f8f65bd7321d3da944e36fc9c18/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/d3b06f8f65bd7321d3da944e36fc9c18/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/src/debug/AndroidManifest.xml
