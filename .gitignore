@@ -56,6 +56,20 @@ buck-out
 local.properties
 *.iml
 
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
 # Node
 node_modules
 *.log
