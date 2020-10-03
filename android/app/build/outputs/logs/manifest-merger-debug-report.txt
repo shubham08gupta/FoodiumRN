@@ -9,6 +9,7 @@ MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/shubham.gupta/.gradle/c
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/08747bcf95180809dfe80aea2815b7b6/flipper-network-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/f8d180802fee4138616517c99d1ca2a5/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-safe-area-context] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/7cfbb726f7d1b12b33c2d015416e43f3/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/ea093b838c52b70c98eb8d9e12750da4/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
@@ -154,6 +155,8 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/shubham.g
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/f8d180802fee4138616517c99d1ca2a5/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-safe-area-context] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/shubham.gupta/VSCodeProjects/FoodiumRN/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.2] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/854da2e9243faf47de3e1ff4b2092ef3/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shubham.gupta/.gradle/caches/transforms-2/files-2.1/7cfbb726f7d1b12b33c2d015416e43f3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44

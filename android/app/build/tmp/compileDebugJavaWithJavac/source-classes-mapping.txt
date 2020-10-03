@@ -219,9 +219,18 @@ com/facebook/soloader/R.java
  com.facebook.soloader.R
 com/facebook/imagepipeline/backends/okhttp3/R.java
  com.facebook.imagepipeline.backends.okhttp3.R
-com/foodiumrn/MainApplication.java
- com.foodiumrn.MainApplication
- com.foodiumrn.MainApplication$1
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable
 androidx/lifecycle/viewmodel/R.java
  androidx.lifecycle.viewmodel.R
 androidx/cursoradapter/R.java
@@ -366,8 +375,11 @@ com/facebook/flipper/plugins/network/R.java
  com.facebook.flipper.plugins.network.R$string
  com.facebook.flipper.plugins.network.R$style
  com.facebook.flipper.plugins.network.R$styleable
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
+com/foodiumrn/ReactNativeFlipper.java
+ com.foodiumrn.ReactNativeFlipper
+ com.foodiumrn.ReactNativeFlipper$1
+ com.foodiumrn.ReactNativeFlipper$2
+ com.foodiumrn.ReactNativeFlipper$2$1
 com/facebook/fresco/ui/common/R.java
  com.facebook.fresco.ui.common.R
 com/facebook/drawee/R.java
@@ -408,20 +420,23 @@ androidx/viewpager/R.java
  androidx.viewpager.R$string
  androidx.viewpager.R$style
  androidx.viewpager.R$styleable
-com/foodiumrn/ReactNativeFlipper.java
- com.foodiumrn.ReactNativeFlipper
- com.foodiumrn.ReactNativeFlipper$1
- com.foodiumrn.ReactNativeFlipper$2
- com.foodiumrn.ReactNativeFlipper$2$1
-androidx/vectordrawable/animated/R.java
- androidx.vectordrawable.animated.R
- androidx.vectordrawable.animated.R$attr
- androidx.vectordrawable.animated.R$color
- androidx.vectordrawable.animated.R$dimen
- androidx.vectordrawable.animated.R$drawable
- androidx.vectordrawable.animated.R$id
- androidx.vectordrawable.animated.R$integer
- androidx.vectordrawable.animated.R$layout
- androidx.vectordrawable.animated.R$string
- androidx.vectordrawable.animated.R$style
- androidx.vectordrawable.animated.R$styleable
+com/foodiumrn/MainApplication.java
+ com.foodiumrn.MainApplication
+ com.foodiumrn.MainApplication$1
+com/oblador/vectoricons/R.java
+ com.oblador.vectoricons.R
+ com.oblador.vectoricons.R$anim
+ com.oblador.vectoricons.R$attr
+ com.oblador.vectoricons.R$bool
+ com.oblador.vectoricons.R$color
+ com.oblador.vectoricons.R$dimen
+ com.oblador.vectoricons.R$drawable
+ com.oblador.vectoricons.R$id
+ com.oblador.vectoricons.R$integer
+ com.oblador.vectoricons.R$layout
+ com.oblador.vectoricons.R$string
+ com.oblador.vectoricons.R$style
+ com.oblador.vectoricons.R$styleable
+ com.oblador.vectoricons.R$xml
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
