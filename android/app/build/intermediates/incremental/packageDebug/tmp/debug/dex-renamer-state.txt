@@ -1,4 +1,4 @@
-#Tue Sep 29 21:35:23 JST 2020
+#Tue Oct 06 21:54:41 JST 2020
 base.0=/Users/shubham.gupta/VSCodeProjects/FoodiumRN/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

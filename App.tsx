@@ -9,9 +9,10 @@ const App: () => React.ReactNode = () => {
       <SafeAreaProvider>
         <StatusBar barStyle="dark-content" />
         <SafeAreaView>
-          <Appbar>
+          <Appbar.Header>
             <Appbar.Content title="Foodium" />
-          </Appbar>
+            <Appbar.Action icon="lightbulb" />
+          </Appbar.Header>
         </SafeAreaView>
       </SafeAreaProvider>
     </>
