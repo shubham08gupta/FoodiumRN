@@ -1,3 +1,15 @@
+androidx/transition/R.java
+ androidx.transition.R
+ androidx.transition.R$attr
+ androidx.transition.R$color
+ androidx.transition.R$dimen
+ androidx.transition.R$drawable
+ androidx.transition.R$id
+ androidx.transition.R$integer
+ androidx.transition.R$layout
+ androidx.transition.R$string
+ androidx.transition.R$style
+ androidx.transition.R$styleable
 com/facebook/fbcore/R.java
  com.facebook.fbcore.R
 androidx/vectordrawable/R.java
@@ -105,6 +117,7 @@ androidx/arch/core/R.java
  androidx.arch.core.R
 androidx/fragment/R.java
  androidx.fragment.R
+ androidx.fragment.R$anim
  androidx.fragment.R$attr
  androidx.fragment.R$color
  androidx.fragment.R$dimen
@@ -146,6 +159,21 @@ com/facebook/nativefilters/R.java
  com.facebook.nativefilters.R$string
  com.facebook.nativefilters.R$style
  com.facebook.nativefilters.R$styleable
+org/reactnative/maskedview/R.java
+ org.reactnative.maskedview.R
+ org.reactnative.maskedview.R$anim
+ org.reactnative.maskedview.R$attr
+ org.reactnative.maskedview.R$bool
+ org.reactnative.maskedview.R$color
+ org.reactnative.maskedview.R$dimen
+ org.reactnative.maskedview.R$drawable
+ org.reactnative.maskedview.R$id
+ org.reactnative.maskedview.R$integer
+ org.reactnative.maskedview.R$layout
+ org.reactnative.maskedview.R$string
+ org.reactnative.maskedview.R$style
+ org.reactnative.maskedview.R$styleable
+ org.reactnative.maskedview.R$xml
 com/facebook/flipper/plugins/fresco/R.java
  com.facebook.flipper.plugins.fresco.R
  com.facebook.flipper.plugins.fresco.R$anim
@@ -189,6 +217,33 @@ androidx/activity/R.java
  androidx.activity.R$string
  androidx.activity.R$style
  androidx.activity.R$styleable
+androidx/recyclerview/R.java
+ androidx.recyclerview.R
+ androidx.recyclerview.R$attr
+ androidx.recyclerview.R$color
+ androidx.recyclerview.R$dimen
+ androidx.recyclerview.R$drawable
+ androidx.recyclerview.R$id
+ androidx.recyclerview.R$integer
+ androidx.recyclerview.R$layout
+ androidx.recyclerview.R$string
+ androidx.recyclerview.R$style
+ androidx.recyclerview.R$styleable
+com/oblador/vectoricons/R.java
+ com.oblador.vectoricons.R
+ com.oblador.vectoricons.R$anim
+ com.oblador.vectoricons.R$attr
+ com.oblador.vectoricons.R$bool
+ com.oblador.vectoricons.R$color
+ com.oblador.vectoricons.R$dimen
+ com.oblador.vectoricons.R$drawable
+ com.oblador.vectoricons.R$id
+ com.oblador.vectoricons.R$integer
+ com.oblador.vectoricons.R$layout
+ com.oblador.vectoricons.R$string
+ com.oblador.vectoricons.R$style
+ com.oblador.vectoricons.R$styleable
+ com.oblador.vectoricons.R$xml
 androidx/drawerlayout/R.java
  androidx.drawerlayout.R
  androidx.drawerlayout.R$attr
@@ -219,20 +274,29 @@ com/facebook/soloader/R.java
  com.facebook.soloader.R
 com/facebook/imagepipeline/backends/okhttp3/R.java
  com.facebook.imagepipeline.backends.okhttp3.R
-androidx/vectordrawable/animated/R.java
- androidx.vectordrawable.animated.R
- androidx.vectordrawable.animated.R$attr
- androidx.vectordrawable.animated.R$color
- androidx.vectordrawable.animated.R$dimen
- androidx.vectordrawable.animated.R$drawable
- androidx.vectordrawable.animated.R$id
- androidx.vectordrawable.animated.R$integer
- androidx.vectordrawable.animated.R$layout
- androidx.vectordrawable.animated.R$string
- androidx.vectordrawable.animated.R$style
- androidx.vectordrawable.animated.R$styleable
+com/foodiumrn/MainApplication.java
+ com.foodiumrn.MainApplication
+ com.foodiumrn.MainApplication$1
 androidx/lifecycle/viewmodel/R.java
  androidx.lifecycle.viewmodel.R
+com/swmansion/rnscreens/R.java
+ com.swmansion.rnscreens.R
+ com.swmansion.rnscreens.R$anim
+ com.swmansion.rnscreens.R$animator
+ com.swmansion.rnscreens.R$attr
+ com.swmansion.rnscreens.R$bool
+ com.swmansion.rnscreens.R$color
+ com.swmansion.rnscreens.R$dimen
+ com.swmansion.rnscreens.R$drawable
+ com.swmansion.rnscreens.R$id
+ com.swmansion.rnscreens.R$integer
+ com.swmansion.rnscreens.R$interpolator
+ com.swmansion.rnscreens.R$layout
+ com.swmansion.rnscreens.R$plurals
+ com.swmansion.rnscreens.R$string
+ com.swmansion.rnscreens.R$style
+ com.swmansion.rnscreens.R$styleable
+ com.swmansion.rnscreens.R$xml
 androidx/cursoradapter/R.java
  androidx.cursoradapter.R
 com/facebook/fresco/memorytypes/nativememory/R.java
@@ -247,6 +311,13 @@ com/facebook/fresco/memorytypes/nativememory/R.java
  com.facebook.fresco.memorytypes.nativememory.R$string
  com.facebook.fresco.memorytypes.nativememory.R$style
  com.facebook.fresco.memorytypes.nativememory.R$styleable
+androidx/cardview/R.java
+ androidx.cardview.R
+ androidx.cardview.R$attr
+ androidx.cardview.R$color
+ androidx.cardview.R$dimen
+ androidx.cardview.R$style
+ androidx.cardview.R$styleable
 androidx/swiperefreshlayout/R.java
  androidx.swiperefreshlayout.R
  androidx.swiperefreshlayout.R$attr
@@ -259,6 +330,18 @@ androidx/swiperefreshlayout/R.java
  androidx.swiperefreshlayout.R$string
  androidx.swiperefreshlayout.R$style
  androidx.swiperefreshlayout.R$styleable
+androidx/coordinatorlayout/R.java
+ androidx.coordinatorlayout.R
+ androidx.coordinatorlayout.R$attr
+ androidx.coordinatorlayout.R$color
+ androidx.coordinatorlayout.R$dimen
+ androidx.coordinatorlayout.R$drawable
+ androidx.coordinatorlayout.R$id
+ androidx.coordinatorlayout.R$integer
+ androidx.coordinatorlayout.R$layout
+ androidx.coordinatorlayout.R$string
+ androidx.coordinatorlayout.R$style
+ androidx.coordinatorlayout.R$styleable
 com/facebook/imagepipeline/nativecode/R.java
  com.facebook.imagepipeline.nativecode.R
  com.facebook.imagepipeline.nativecode.R$attr
@@ -293,6 +376,7 @@ androidx/lifecycle/R.java
 com/foodiumrn/R.java
  com.foodiumrn.R
  com.foodiumrn.R$anim
+ com.foodiumrn.R$animator
  com.foodiumrn.R$attr
  com.foodiumrn.R$bool
  com.foodiumrn.R$color
@@ -303,6 +387,7 @@ com/foodiumrn/R.java
  com.foodiumrn.R$interpolator
  com.foodiumrn.R$layout
  com.foodiumrn.R$mipmap
+ com.foodiumrn.R$plurals
  com.foodiumrn.R$string
  com.foodiumrn.R$style
  com.foodiumrn.R$styleable
@@ -321,6 +406,21 @@ androidx/customview/R.java
  androidx.customview.R$string
  androidx.customview.R$style
  androidx.customview.R$styleable
+com/swmansion/reanimated/R.java
+ com.swmansion.reanimated.R
+ com.swmansion.reanimated.R$anim
+ com.swmansion.reanimated.R$attr
+ com.swmansion.reanimated.R$bool
+ com.swmansion.reanimated.R$color
+ com.swmansion.reanimated.R$dimen
+ com.swmansion.reanimated.R$drawable
+ com.swmansion.reanimated.R$id
+ com.swmansion.reanimated.R$integer
+ com.swmansion.reanimated.R$layout
+ com.swmansion.reanimated.R$string
+ com.swmansion.reanimated.R$style
+ com.swmansion.reanimated.R$styleable
+ com.swmansion.reanimated.R$xml
 androidx/loader/R.java
  androidx.loader.R
  androidx.loader.R$attr
@@ -333,6 +433,24 @@ androidx/loader/R.java
  androidx.loader.R$string
  androidx.loader.R$style
  androidx.loader.R$styleable
+com/google/android/material/R.java
+ com.google.android.material.R
+ com.google.android.material.R$anim
+ com.google.android.material.R$animator
+ com.google.android.material.R$attr
+ com.google.android.material.R$bool
+ com.google.android.material.R$color
+ com.google.android.material.R$dimen
+ com.google.android.material.R$drawable
+ com.google.android.material.R$id
+ com.google.android.material.R$integer
+ com.google.android.material.R$interpolator
+ com.google.android.material.R$layout
+ com.google.android.material.R$plurals
+ com.google.android.material.R$string
+ com.google.android.material.R$style
+ com.google.android.material.R$styleable
+ com.google.android.material.R$xml
 com/facebook/flipper/R.java
  com.facebook.flipper.R
  com.facebook.flipper.R$anim
@@ -375,11 +493,8 @@ com/facebook/flipper/plugins/network/R.java
  com.facebook.flipper.plugins.network.R$string
  com.facebook.flipper.plugins.network.R$style
  com.facebook.flipper.plugins.network.R$styleable
-com/foodiumrn/ReactNativeFlipper.java
- com.foodiumrn.ReactNativeFlipper
- com.foodiumrn.ReactNativeFlipper$1
- com.foodiumrn.ReactNativeFlipper$2
- com.foodiumrn.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
 com/facebook/fresco/ui/common/R.java
  com.facebook.fresco.ui.common.R
 com/facebook/drawee/R.java
@@ -420,23 +535,49 @@ androidx/viewpager/R.java
  androidx.viewpager.R$string
  androidx.viewpager.R$style
  androidx.viewpager.R$styleable
-com/foodiumrn/MainApplication.java
- com.foodiumrn.MainApplication
- com.foodiumrn.MainApplication$1
-com/oblador/vectoricons/R.java
- com.oblador.vectoricons.R
- com.oblador.vectoricons.R$anim
- com.oblador.vectoricons.R$attr
- com.oblador.vectoricons.R$bool
- com.oblador.vectoricons.R$color
- com.oblador.vectoricons.R$dimen
- com.oblador.vectoricons.R$drawable
- com.oblador.vectoricons.R$id
- com.oblador.vectoricons.R$integer
- com.oblador.vectoricons.R$layout
- com.oblador.vectoricons.R$string
- com.oblador.vectoricons.R$style
- com.oblador.vectoricons.R$styleable
- com.oblador.vectoricons.R$xml
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
+com/foodiumrn/ReactNativeFlipper.java
+ com.foodiumrn.ReactNativeFlipper
+ com.foodiumrn.ReactNativeFlipper$1
+ com.foodiumrn.ReactNativeFlipper$2
+ com.foodiumrn.ReactNativeFlipper$2$1
+androidx/lifecycle/viewmodel/savedstate/R.java
+ androidx.lifecycle.viewmodel.savedstate.R
+com/swmansion/gesturehandler/react/R.java
+ com.swmansion.gesturehandler.react.R
+ com.swmansion.gesturehandler.react.R$anim
+ com.swmansion.gesturehandler.react.R$attr
+ com.swmansion.gesturehandler.react.R$bool
+ com.swmansion.gesturehandler.react.R$color
+ com.swmansion.gesturehandler.react.R$dimen
+ com.swmansion.gesturehandler.react.R$drawable
+ com.swmansion.gesturehandler.react.R$id
+ com.swmansion.gesturehandler.react.R$integer
+ com.swmansion.gesturehandler.react.R$layout
+ com.swmansion.gesturehandler.react.R$string
+ com.swmansion.gesturehandler.react.R$style
+ com.swmansion.gesturehandler.react.R$styleable
+ com.swmansion.gesturehandler.react.R$xml
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable
+androidx/viewpager2/R.java
+ androidx.viewpager2.R
+ androidx.viewpager2.R$attr
+ androidx.viewpager2.R$color
+ androidx.viewpager2.R$dimen
+ androidx.viewpager2.R$drawable
+ androidx.viewpager2.R$id
+ androidx.viewpager2.R$integer
+ androidx.viewpager2.R$layout
+ androidx.viewpager2.R$string
+ androidx.viewpager2.R$style
+ androidx.viewpager2.R$styleable
